@@ -8,6 +8,7 @@ DESCRIPCIÓN:
 
 TRABAJO FINAL - INFORMÁTICA I
 I. DESCRIPCIÓN DEL TRABAJO A REALIZAR
+
 Desarrollar una aplicación CRUD (Create, Read, Update and Delete) en PYTHON, un script que permita almacenar y gestionar la infraestructura de una IPS. Dicha aplicación contará con una entrada y salida de información en el Shell de Python y almacenamiento de la información en una base de datos MySQL.
 
 i. La base de datos contará con 3 tablas, una para almacenar la información de los equipos de infraestructura, los responsables y las posibles ubicaciones en la IPS.
