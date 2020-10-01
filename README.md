@@ -7,7 +7,7 @@ Lenguage Spanish:
 DESCRIPCIÓN:
 
 TRABAJO FINAL - INFORMÁTICA I
-I. DESCRIPCIÓN DEL TRABAJO A REALIZAR
+                                                          I. DESCRIPCIÓN DEL TRABAJO A REALIZAR
 
 Desarrollar una aplicación CRUD (Create, Read, Update and Delete) en PYTHON, un script que permita almacenar y gestionar la infraestructura de una IPS. Dicha aplicación contará con una entrada y salida de información en el Shell de Python y almacenamiento de la información en una base de datos MySQL.
 
@@ -73,3 +73,19 @@ o Se pide ingresar el responsable y en la tabla responsables de la base de datos
 
 o Para el caso de la ubicación del equipo, deberá ser igual, pero se debe listar las ubicaciones disponibles en la tabla.
 
+
+
+
+
+
+
+
+                                                      II. OBSERVACIONES DE ENTREGA:
+                                                      
+                                                      
+• El trabajo se realizará en grupos de 2, los cuales se inscribirán en un archivo que está compartido en Drive, es decir, ustedes mismos irán seleccionando los grupos y se irán inscribiendo.
+• Se deben entregar todos los archivos (.py) diseñados en PYTHON y el archivo de la base de datos en MySQL, incluirá las 3 tablas y la información previamente cargada para probar. Deben asegurarse de enviar correctamente los archivos ya que la revisión se realizará única y exclusivamente con los archivos enviados carados en la tarea del classroom que de abrirá para tal efecto.
+• En la cabecera del script se deben colocar los nombres de los autores como un comentario (integrantes del grupo) y el código debe estar debidamente documentado. Descripción de las variables, descripción de los procesos y resultados a mostrar.
+• El trabajo debe ser cargado en el classroom, solo una vez, es decir, uno de los dos integrantes hará la carga a más tardar el día DOMINGO 09 DE DICIEMBRE DE 2018 A LAS 11:59PM. IMPORTANTE: EL TRABAJO NO SE RECIBIRÁ DESPUÉS DE ESTA HORA, ES DECIR A LAS 12:00AM ESTE 20% SERÁ CERO (0.0).
+• Cualquier intento de fraude o copia de código entre los diferentes equipos implicará una calificación de 0.0 para todos los involucrados sin posibilidad de recuperación.
+• Si al ejecutar el script hay algún error, sin importar cual sea, el trabajo se calificará sobre 3.0.
